@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.bilhereriapopular</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>aplicacao</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>demo</description>
+    <name>Aplicação Bilheteria Popular</name>
+    <description>Sistema de Reserva de Sessões de Cinema e Teatro</description>
     <url/>
     <licenses>
         <license/>
